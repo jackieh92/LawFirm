@@ -1,0 +1,26 @@
+nav.a{
+
+    border-top: solid;
+    border-bottom: solid;
+    margin-top:1px;
+    margin-bottom: 1px;
+
+}
+
+.container{
+
+    margin-left:40px;
+    margin-right:40px;
+}
+
+.nav-item{
+    border-right: solid lightgrey;
+    border-width:2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav-link{
+    color:black;
+    line-height: 100%;
+}
