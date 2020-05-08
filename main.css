@@ -24,3 +24,91 @@ nav.a{
     color:black;
     line-height: 100%;
 }
+.card-margin {
+    margin-left:2px;
+}
+
+.no-padding {
+    padding:5px;
+}
+
+.border {
+    border-radius: 0px;
+    border: 2px solid rgb(88, 88, 88) !important;
+}
+
+.border > img {
+    margin:0px;
+    padding:0px !important;
+}
+
+
+
+.image-cont {
+    padding:12px;
+    background-image: url("https://via.placeholder.com/398x100");
+    height:100px;
+    border: 2px solid rgb(94, 94, 94);
+} 
+
+
+.image-cont > img{
+    border: 2px solid rgb(102, 102, 102);
+}
+
+h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color:white;
+    margin-top:30px;
+}
+
+.red-background {
+    background-color: #800000;
+}
+
+.bar {
+    background-color: white;
+    width:100%;
+    height:2px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left:10px;
+    font-weight: 600;
+}
+
+.top-ul {
+    padding-top:30px;
+    padding-left:0px;
+}
+li {
+    color: white;
+    line-height: 18px;
+}
+
+h6 {
+    color:white;
+    font-weight: 600;
+    margin-bottom:0px;
+}
+.side-bar-p {
+    color:white;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.subset-li{
+    margin-top:20px !important;
+}
+
+.subtitle {
+    transform: translate(4vh, 2vw);
+    margin-bottom:0px;
+    color:grey;
+}
+
+.cont-top-padding {
+    padding-top:20px;
+}
